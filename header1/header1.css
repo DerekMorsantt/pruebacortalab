@@ -1,0 +1,46 @@
+.barra {
+  width: 1440px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  align-items: center;
+  padding: 0 24px;
+  height: 42px;
+  background-color: #F5F5F5;
+  font-family: 'HK Grotesk', sans-serif;
+  font-size: 14px;
+}
+
+.izquierda {
+  grid-column: 2 / span 4;
+  color: #666666;
+}
+
+.derecha {
+  grid-column: 8 / span 3;
+  display: flex;
+  gap: 24px;
+  align-items: center;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  color: #666666;
+  white-space: nowrap;
+  padding-right: 24px;
+  border-right: 1px solid #D9D9D9;
+  height: 100%;
+}
+
+.item:last-child {
+  border-right: none;
+  padding-right: 0;
+}
+
+.icono {
+  width: 18px;
+  height: 18px;
+  object-fit: contain;
+}
