@@ -1,6 +1,6 @@
 .reloj {
     width: 1440px;
-    height: 600px; /* Ajustado para que se parezca más a la imagen */
+    height: 600px; 
     margin: 0 auto;
     display: flex;
     align-items: center;

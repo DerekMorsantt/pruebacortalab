@@ -1,0 +1,30 @@
+.bloque2 {
+    width: 1440px;
+    margin: 0 auto;
+    margin-top: -180px;
+    display: flex;
+  
+   
+
+  }
+  
+  .bloque2-texto {
+    color: #666666;
+    font-size: 24px;
+    border-bottom: 4px solid #008ECC;
+    padding: 8px 0;
+    margin-left: 140px;
+  }
+  
+  .bloque2-ver {
+    color: #666666;
+    font-size: 16px;
+  margin-left: 749px;   
+  }
+  
+  .azul {
+    color: #008ECC;
+    font-weight: 700;
+  }
+  
+ 
