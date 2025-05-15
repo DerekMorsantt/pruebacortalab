@@ -19,7 +19,7 @@
 .derecha {
   grid-column: 8 / span 3;
   display: flex;
-  gap: 24px;
+  gap: 35px;
   align-items: center;
 }
 

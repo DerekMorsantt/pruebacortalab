@@ -43,13 +43,10 @@
   display: block;
 }
 
-.user-cart {
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
-}
+
+
 
 .sign {
   width: 241px;
-  height: 24px;
-}
+  height: 24px;  
+  }
