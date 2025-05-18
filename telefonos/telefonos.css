@@ -1,0 +1,34 @@
+.telefonos {
+    margin: 0 auto;
+    height: 295px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px; 
+    margin-top: 40px;
+    justify-content: flex-end;
+    
+}
+
+.bloque3 {
+    width: 1440px;
+    margin-left: 130px;
+}
+.telefono {
+    height: 423px;
+    width: 300px;
+    margin-left: -40px;
+}
+.telefono1 {
+    margin-left: -45px;
+}
+.telefono2{
+    margin-left: -7px;
+}
+.galaxy {
+    background-color: #F5F5F5;
+    height: 295px;
+    width: 227px;
+    border-radius: 16px;
+    display: flex;
+    justify-content: center;
+}
