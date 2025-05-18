@@ -1,0 +1,38 @@
+
+.bloque4 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    overflow: hidden;
+    padding: 20px 0;
+  }
+  
+  .productos {
+    display: inline-flex;
+    flex-wrap: nowrap;
+    gap: 50px;
+    align-items: flex-end; 
+    margin-left: 40px;
+  }
+  .categoria-item {
+    width: 132px;
+    height: 172px;
+    display: flex;
+    justify-content: center;
+ 
+  }
+  
+  /* Imágenes normales */
+  .categoria-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+  
+  .mobile-grande img {
+    transform: scale(1.1);
+  }
+  
+ 
+  

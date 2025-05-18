@@ -1,12 +1,12 @@
-.bloque22 {
+.bloque222 {
     width: 1440px;
     margin: 0 auto;
     margin-top: 100px;
-    display: flex;    
+    display: flex;
     border-bottom: 1px solid #EDEDED;
   }
   
-  .bloque22-texto {
+  .bloque222-texto {
     color: #666666;
     font-size: 24px;
     border-bottom: 4px solid #008ECC;
@@ -14,10 +14,10 @@
     margin-left: 135px;
   }
   
-  .bloque22-ver {
+  .bloque222-ver {
     color: #666666;
     font-size: 16px;
-  margin-left: 860px;   
+  margin-left: 880px;   
   }
   
   .azul {
