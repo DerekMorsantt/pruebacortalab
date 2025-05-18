@@ -37,6 +37,7 @@
   .texto1 img {
     width: 574px;
     height: 156px;
+    margin-left: 40px;
   }
   
   .texto2 {
@@ -44,11 +45,14 @@
     height: 8px;
     color: white;
     font-size: 30px;
+    margin-left: 40px;
   }
   
   .relojimg img {
     width: 268px;
     height: 270px;
+    z-index: 2;
+    position: relative;
   }
   
   .boton1,
@@ -75,4 +79,9 @@
   .boton2 {
     right: -50px;
   }
-  
+  .burbuja1 {
+    position: absolute;
+    margin-left: 690px;
+    z-index: 1;
+   
+  }
