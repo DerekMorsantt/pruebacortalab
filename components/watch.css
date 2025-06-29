@@ -1,0 +1,134 @@
+.banner {
+    width: 1440px;
+    position: relative; 
+    margin-top: 20px;
+}
+.banner-content {
+    background-color: #212844;
+    position: absolute;
+    left: 120px;
+    width: 1201px;
+    height: 316px;
+    border-radius: 16px;
+}
+
+.product-img {
+    width: 268px;
+    height: 270px;
+    left: 928px;
+    position: absolute;
+    z-index: 2;
+    margin-top: 20px;
+}
+
+.bubble {
+    z-index: 1;
+    width: 509px;
+    height: 316px;
+    left: 812px;
+    position: absolute;
+    top: 0px;
+}
+
+.arrowLeft {
+    width: 86px;
+    height: 86px;
+    left: 77px;
+    position: absolute;
+    background-color: #F3F9FB;
+    border-radius: 100%;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.arrowLeft p {
+    color: #008ECC;
+    font-size: 48px;
+    margin-bottom: 5px;
+}
+
+.subtitle {
+    width: 100%;
+    height: 30px;
+    left: 210px;
+    position: absolute;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 30px;
+    letter-spacing: 0%;
+    color: white;
+    margin-top: 40px
+}
+
+.title {
+    width: 100%;
+    height: 56px;
+    left: 210px;
+    position: absolute;
+    font-weight: 700;
+    font-size: 63px;
+    line-height: 63px;
+    letter-spacing: 0%;
+    color: white;
+    margin-top: 90px;
+}
+
+.offer {
+    width: 100%;
+    left: 210px;
+    position: absolute;
+    height: 30px;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 30px;
+    letter-spacing: 0%;
+    color: white;
+    margin-top: 180px;
+}
+
+.circles {
+    left: 210px;
+    width: 114px;
+    height: 8px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-top: 270px;
+    position: absolute;
+}
+
+.ovalo {
+    background-color: white;
+    width: 24px;
+    border-radius: 7px;
+}
+
+.circle {
+    background-color: white;
+    width: 8px;
+    height: 8px;
+    border-radius: 100%;
+}
+
+.arrowRight {
+    width: 86px;
+    height: 86px;
+    left: 1274px;
+    position: absolute;
+    background-color: #F3F9FB;
+    border-radius: 100%;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.arrowRight p {
+    color: #008ECC;
+    font-size: 48px;
+    margin-bottom: 5px;
+}
