@@ -1,0 +1,154 @@
+.categories {
+    width: 1440px;
+    position: relative;
+    margin-top: 40px;
+    height: 300px;
+}
+
+.mobile {
+    width: 132px;
+    height: 172px;
+    left: 120px;
+    position: absolute;
+}
+
+.circleM {
+    width: 132px;
+    height: 132px;
+    border-radius: 100%;
+    border: 1px solid #008ECC;
+    display: flex;
+    top: 0;
+    align-items: center;
+    justify-content: center;
+    background-color: #F5F5F5;
+}
+
+.circleM img {
+    width: 52px;
+    height: 98px;
+}
+
+.txt-mobile {
+    bottom: 0;
+    position: absolute;
+    text-align: center;
+    left: 41px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.cosmetics {
+    width: 132px;
+    height: 172px;
+    left: 298px;
+    position: absolute;
+}
+
+.circleM1 {
+    width: 132px;
+    height: 132px;
+    border-radius: 100%;
+    display: flex;
+    top: 0;
+    align-items: center;
+    justify-content: center;
+    background-color: #F5F5F5;
+}
+
+
+.txt-cosmetics {
+    bottom: 0;
+    position: absolute;
+    text-align: center;
+    left: 29px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.electronics {
+    width: 132px;
+    height: 172px;
+    left: 476px;
+    position: absolute;
+}
+
+.txt-e {
+    bottom: 0;
+    position: absolute;
+    text-align: center;
+    left: 26px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.furniture {
+    width: 132px;
+    height: 172px;
+    left: 654px;
+    position: absolute;
+}
+
+.txt-f {
+    bottom: 0;
+    position: absolute;
+    text-align: center;
+    left: 33px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.watches {
+    width: 132px;
+    height: 172px;
+    left: 832px;
+    position: absolute;
+}
+
+.txt-w {
+    bottom: 0;
+    position: absolute;
+    text-align: center;
+    left: 35px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.Decor {
+    width: 132px;
+    height: 172px;
+    left: 1010px;
+    position: absolute;
+}
+
+.txt-d {
+    bottom: 0;
+    position: absolute;
+    text-align: center;
+    left: 45px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.Accessories {
+    width: 132px;
+    height: 172px;
+    left: 1188px;
+    position: absolute;
+}
+
+.txt-a {
+    bottom: 0;
+    position: absolute;
+    text-align: center;
+    left: 24px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+}
