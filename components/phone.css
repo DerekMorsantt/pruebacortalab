@@ -1,5 +1,6 @@
 .phone {
     width: 1440px;
+    height: 418px;
     position: relative;
     margin-top: 40px;
     display: flex;
@@ -46,7 +47,7 @@
 
 .info {
     background-color: white;
-    padding: 6px;
+    padding: 6px 12px;
     border-top: 1px solid #eee;
     border-bottom-left-radius: 16px;
     border-bottom-right-radius: 16px;
