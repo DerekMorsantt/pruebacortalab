@@ -1,0 +1,26 @@
+.bloque2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.bloque2 {
+    border-bottom: 1px solid #EDEDED;
+    max-width: 1201px;
+    margin: auto;
+}
+.bloque2-texto {
+  font-size: 24px;
+  color: #666666;
+  border-bottom: 4px solid #008ECC;
+}
+
+.bloque2-ver {
+  font-size: 16px;
+  color: #666666;
+}
+
+.azul {
+ color: #008ECC;
+ font-weight: 700;
+}
