@@ -1,0 +1,8 @@
+.options {
+    width: 1440px;
+    height: 69px;
+    border: 1px solid #EDEDED;
+    position: relative; 
+    display: flex;
+    align-items: center;
+}
