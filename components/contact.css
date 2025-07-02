@@ -1,0 +1,190 @@
+.contact {
+    width: 1440px;
+    height: 592px;
+    background-color: #008ECC;
+    position: relative;
+}
+
+.bubble5 {
+    position: absolute;
+    width: 321px;
+    height: 401px;
+    top: 0;
+    right: 0;
+}
+
+.title-m {
+    font-size: 48px;
+    color: white;
+    position: absolute;
+    left: 120px;
+    margin-top: 80px;
+}
+
+.txt-c {
+    position: absolute;
+    left: 120px;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 20px;
+    color: white;
+    margin-top: 170px;
+}
+
+.logo-wsp {
+    width: 24px;
+    height: 24px;
+    left: 120px;
+    margin-top: 210px;
+    position: absolute;
+}
+
+.txt-wsp {
+    color: white;
+    position: absolute;
+    left: 155px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 210px;
+}
+
+.num-wsp {
+    color: white;
+    position: absolute;
+    left: 155px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 230px;
+}
+
+.logo-call {
+    width: 24px;
+    height: 24px;
+    left: 120px;
+    margin-top: 270px;
+    position: absolute;
+}
+
+.txt-call {
+    color: white;
+    position: absolute;
+    left: 155px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 270px;
+}
+
+.num-call {
+    color: white;
+    position: absolute;
+    left: 155px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 290px;
+}
+
+
+.download {
+    position: absolute;
+    left: 120px;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 20px;
+    color: white;
+    margin-top: 340px;
+}
+
+.btn-ap {
+    position: absolute;
+    left: 120px;
+    margin-top: 385px;
+    height: 56px;
+}
+
+.category {
+    width: 220px;
+    left: 588px;
+    position: absolute;
+    color: white;
+    margin-top: 80px;
+    gap: 10px;
+}
+
+.title-cs {
+    width: 100%;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 20px;
+      padding: 12px 0px;
+      position: absolute;
+    border-bottom: 3px solid white;
+}
+
+.options-c {
+    margin-top: 70px;
+}
+
+.category li {
+    margin-left: 25px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 37px;
+}
+
+.services {
+    width: 300px;
+    left: 887px;
+    position: absolute;
+    color: white;
+    margin-top: 80px;
+    gap: 10px;
+}
+
+.title-css {
+    max-width: 169px;
+    width: 100%;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 20px;
+      padding: 12px 0px;
+      position: absolute;
+    border-bottom: 3px solid white;
+}
+
+.options-cs {
+    margin-top: 70px;
+}
+
+.services li {
+    margin-left: 25px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 37px;
+}
+
+.copy {
+    width: 1440px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    color: white;
+    border-top: 1px solid #05ABF3;
+    padding: 42px 0px;
+    max-width: 1201px;
+    position: absolute;
+    bottom: 0;
+    left: 120px;
+}
+
+.copy p{
+    position: absolute;
+    left: 500x;
+    margin-bottom: 0px;
+}
