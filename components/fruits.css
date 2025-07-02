@@ -1,0 +1,205 @@
+.Fruits {
+    width: 1440px;
+    position: relative;
+    margin-top: 40px;
+}
+
+.bloq1 {
+    width: 187px;
+    height: 187px;
+    left: 120px;
+    position: absolute;
+    border-radius: 16px;
+    border: 1px solid #008ECC;
+    background-color: #F5F5F5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bloq2 {
+    width: 187px;
+    height: 187px;
+    left: 323px;
+    position: absolute;
+    border-radius: 16px;
+    background-color: #F5F5F5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bloq3 {
+    width: 187px;
+    height: 187px;
+    left: 526px;
+    position: absolute;
+    border-radius: 16px;
+    background-color: #F5F5F5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bloq4 {
+    width: 187px;
+    height: 187px;
+    left: 729px;
+    position: absolute;
+    border-radius: 16px;
+    background-color: #F5F5F5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bloq5 {
+    width: 187px;
+    height: 187px;
+    left: 932px;
+    position: absolute;
+    border-radius: 16px;
+    background-color: #F5F5F5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bloq6 {
+    width: 187px;
+    height: 187px;
+    left: 1135px;
+    position: absolute;
+    border-radius: 16px;
+    background-color: #F5F5F5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.txt-fruits {
+    width: 1440px;
+    position: relative;
+    margin-top: 250px;
+    height: 180px;
+}
+
+.daily {
+    position: absolute;
+    left: 157px;
+    width: 100%;
+    height: 20px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: #666666;
+}
+
+.up {
+    position: absolute;
+    left: 146px;
+    font-weight: 700;
+    font-size: 20px;
+    color: #222222;
+    margin-top: 20px;
+}
+
+.daily1 {
+    position: absolute;
+    left: 379px;
+    width: 100%;
+    height: 20px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: #666666;
+}
+
+.up1 {
+    position: absolute;
+    left: 349px;
+    font-weight: 700;
+    font-size: 20px;
+    color: #222222;
+    margin-top: 20px;
+}
+
+.daily2 {
+    position: absolute;
+    left: 598px;
+    width: 100%;
+    height: 20px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: #666666;
+}
+
+.up2 {
+    position: absolute;
+    left: 552px;
+    font-weight: 700;
+    font-size: 20px;
+    color: #222222;
+    margin-top: 20px;
+}
+
+.daily3 {
+    position: absolute;
+    left: 782px;
+    width: 100%;
+    height: 20px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: #666666;
+}
+
+.up3 {
+    position: absolute;
+    left: 755px;
+    font-weight: 700;
+    font-size: 20px;
+    color: #222222;
+    margin-top: 20px;
+}
+
+.daily4 {
+    position: absolute;
+    left: 1001px;
+    width: 100%;
+    height: 20px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: #666666;
+}
+
+.up4 {
+    position: absolute;
+    left: 958px;
+    font-weight: 700;
+    font-size: 20px;
+    color: #222222;
+    margin-top: 20px;
+}
+
+.daily5 {
+    position: absolute;
+    left: 1203px;
+    width: 100%;
+    height: 20px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: #666666;
+}
+
+.up5 {
+    position: absolute;
+    left: 1161px;
+    font-weight: 700;
+    font-size: 20px;
+    color: #222222;
+    margin-top: 20px;
+}
